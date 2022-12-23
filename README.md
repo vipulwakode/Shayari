@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-Final project look like: ![Alt text](https://postimg.cc/Sjt4MHbW?raw=true "Optional Title").
+Final project look like: ![Alt text](https://postimg.cc/Sjt4MHbW).
 
 ## Available Scripts
 
